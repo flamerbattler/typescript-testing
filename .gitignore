@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules/
+dist/
+
+# TypeScript specific
+*.tsbuildinfo
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+
+# Log files
+*.log
+logs/
+
+# Build output
+build/
+out/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
